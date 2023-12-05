@@ -14,3 +14,10 @@ Task01 (this is a big one)
 You will be creating a user interface and a schema for storing assignment data for a teacher.  You will need to decide the best way of using lists and dictionaries to keep track of your data, and then you will store the data in json encoded format to a file.
 
 Create appropriate functions to separate main blocks into separate modules.
+
+
+WHAT THIS ASSIGNMENT IS ASKING US TO DO:
+makes new assignments
+with its own id
+you should be able to input assognment id and then add each students mark from there.
+have a way of viewing the scores from JSON.
